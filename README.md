@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Darji</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 💬 Ask me about **node, mongodb,**
+- 💬 Ask me about **Backend Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
