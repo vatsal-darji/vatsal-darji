@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Darji</h1>
 <h3 align="center">Backend developer</h3>
 
-- 💬 Ask me about **Backend Developement**
+- 💬 Ask me about **Software Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
